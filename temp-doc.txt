@@ -1,0 +1,5 @@
+it was used to copy files into the main directory.
+because it did not lack any hidden directory.
+git commit * -m "initial commit"
+git commit * -m greends-fads-first-project
+
